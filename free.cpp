@@ -1,8 +1,8 @@
-int sum(ina a,int b)
+int sum(int a,int b)
 {
     return (a+b);
 }
-int sub(in a,int b)
+int sub(int a,int b)
 {
     return(a-b);
 }
